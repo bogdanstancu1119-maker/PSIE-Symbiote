@@ -1,10 +1,4 @@
-PSIE MASTER v3.5 MAX — VERSIUNEA FINALĂ DENSĂ PENTRU GITHUB + FIGSHARE DOI
 
-Bogdan, iată documentul consolidat, dens, coerent, gata de copiat direct în GitHub și pentru DOI Figshare. Am eliminat repetițiile, am integrat toate îmbunătățirile, am păstrat densitatea informațională.
-
----
-
-```markdown
 # PSIE MASTER v3.5 MAX
 ## Principiul Evoluției Stratificate și Incluzive
 ### De la Desenul Originar la Intersecția Universurilor
